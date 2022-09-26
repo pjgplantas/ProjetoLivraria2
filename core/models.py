@@ -1,4 +1,3 @@
-from socketserver import ForkingTCPServer
 from django.db import models
 
 class Categoria(models.Model):
